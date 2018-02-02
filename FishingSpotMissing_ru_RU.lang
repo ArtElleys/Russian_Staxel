@@ -1,6 +1,6 @@
 language.code=ru-RU
 language=Russian
-staxel.village.dialogue.job.FishingSpotMissing.line:10000100=Здесь нет хорошего ^c:1486b0;для рыбалки^c:pop;...
+staxel.village.dialogue.job.FishingSpotMissing.line:10000100=Здесь нет ничего хорошего ^c:1486b0;для рыбалки^c:pop;...
 staxel.village.dialogue.job.FishingSpotMissing.line:10000200=Я начинаю голодать, мяу!
 staxel.village.dialogue.job.FishingSpotMissing.line:10000300={0-playername}...
 staxel.village.dialogue.job.FishingSpotMissing.line:10000400=Я хочу, чтобы ты построил ^c:1486b0;рыбацкое место^c:pop;...
@@ -12,7 +12,7 @@ staxel.village.dialogue.job.FishingSpotMissing.line:10000900=Это на сам�
 staxel.village.dialogue.job.FishingSpotMissing.line:10001000=Тебе понадобятся эти чертежи, чтобы сделать некоторые части, мяу.
 staxel.village.dialogue.job.FishingSpotMissing.line:10001100=Тебе нужно три основных компонента.
 staxel.village.dialogue.job.FishingSpotMissing.line:10001200=Ты точно можешь найти ^c:d03e37;бочки^c:pop; где-то на ферме.
-staxel.village.dialogue.job.FishingSpotMissing.line:10001300=Или ты всегда можешь купить ^c:d03e37;чертеж^c:pop; в ^c:1486b0;строительном магазине^c:pop; и сделать ее!
+staxel.village.dialogue.job.FishingSpotMissing.line:10001300=Или ты всегда можешь купить ^c:d03e37;чертеж^c:pop; в ^c:1486b0;строительном магазине^c:pop; и сделать их!
 staxel.village.dialogue.job.FishingSpotMissing.line:10001400=Изготовление ^c:d03e37;стойки для рыбы^c:pop; точно будет легким, мяу!
 staxel.village.dialogue.job.FishingSpotMissing.line:10001500=В ^c:1486b0;строительном магазине^c:pop; есть все, что тебе нужно!
 staxel.village.dialogue.job.FishingSpotMissing.line:10001600=Мне кажется самым сложным будет ^c:d03e37;приманка^c:pop;, мяу.
