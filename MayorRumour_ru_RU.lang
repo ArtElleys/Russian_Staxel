@@ -3,7 +3,7 @@ language=Russian
 //[Reference] 'Hmm...'
 staxel.village.dialogue.MayorRumour.line:10000300=Хмм...
 //[Reference] 'I must say I've been thinking about raising taxes again recently.'
-staxel.village.dialogue.MayorRumour.line:10000400=Должен сказать, недавно я думал над повышением налогов
+staxel.village.dialogue.MayorRumour.line:10000400=Должен сказать, недавно я думал над повышением налогов.
 //[Reference] 'We could really use some renovations'
 staxel.village.dialogue.MayorRumour.line:10000500=Мы могли бы многое перестроить.
 //[Reference] 'You should see the state of my office'
@@ -47,9 +47,9 @@ staxel.village.dialogue.MayorRumour.line:10005400=А? Что ты имеешь �
 //[Reference] 'Be careful when cultivating crops in large quantities.'
 staxel.village.dialogue.MayorRumour.line:10005500=Будь осторожен, когда собираешь большой урожай.
 //[Reference] 'If you start selling too much at once, it will result in an oversupply.'
-staxel.village.dialogue.MayorRumour.line:10005600=Если ты начнешь продавать сразу все - будет избыток.
+staxel.village.dialogue.MayorRumour.line:10005600=Если ты начнешь продавать сразу всё - будет избыток.
 //[Reference] 'The surplus will gradually be worth less and less the more you sell.'
-staxel.village.dialogue.MayorRumour.line:10005700=The surplus will gradually be worth less and less the more you sell.
+staxel.village.dialogue.MayorRumour.line:10005700=Избыток будет постепенно стоить меньше и меньше, чем больше вы продаете.
 //[Reference] 'It takes quite a while for prices to return to normal.'
 staxel.village.dialogue.MayorRumour.line:10005800=Через какое-то время цены вернутся в привычное состояние.
 //[Reference] 'The other day, we had a foreign delegate visiting.'
